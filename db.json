@@ -1,0 +1,64 @@
+{
+  "motorcycles": [
+    {
+      "id": 1,
+      "name": "2024 Harley-Davidson Nightster",
+      "image": "./images/nightster.webp",
+      "price": 14.999
+    },
+    {
+      "id": 2,
+      "name": "2024 Harley-Davidson Fat-Boy 114",
+      "image": "./images/fat-boy.jpeg",
+      "price": 21.999
+    },
+    {
+      "id": 3,
+      "name": "2024 Indian Challenger Dark Horse",
+      "image": "./images/dark-horse-challenger.webp",
+      "price": 30.999
+    },
+    {
+      "id": 4,
+      "name": "2024 Indian Roadmaster",
+      "image": "./images/roadmaster.webp",
+      "price": 34.999
+    },
+    {
+      "id": 5,
+      "name": "2024 Kawasaki Ninja 650",
+      "image": "./images/ninja-650.jpeg",
+      "price": 8.899
+    },
+    {
+      "id": 6,
+      "name": "2024 Kawasaki Vulcan 900 Classic",
+      "image": "./images/vulcan-900.jpeg",
+      "price": 9.399
+    },
+    {
+      "id": 7,
+      "name": "2024 Honda CBR650R",
+      "image": "./images/cbr-650r.avif",
+      "price": 9.899
+    },
+    {
+      "id": 8,
+      "name": "2024 Honda Gold Wing",
+      "image": "./images/gold-wing.jpeg",
+      "price": 24.700
+    },
+    {
+      "id": 9,
+      "name": "2024 Ducati SuperSport 950",
+      "image": "./images/supersport-950.jpeg",
+      "price": 15.495
+    },
+    {
+      "id": 10,
+      "name": "2024 Ducati DesertX",
+      "image": "./images/desertx-rally.jpeg",
+      "price": 8.899
+    }
+  ]
+}
